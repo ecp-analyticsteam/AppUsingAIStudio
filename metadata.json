@@ -1,0 +1,6 @@
+{
+  "name": "ClauseTrack",
+  "description": "AI-assisted contract submission, legal review pipeline, and risk audit tracker bridging the gap between business submitters and legal reviewers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
